@@ -1,0 +1,14 @@
+C:\Users\Kristijan\source\repos\invaders\invaders\bin\Debug\net8.0\invaders.exe
+C:\Users\Kristijan\source\repos\invaders\invaders\bin\Debug\net8.0\invaders.deps.json
+C:\Users\Kristijan\source\repos\invaders\invaders\bin\Debug\net8.0\invaders.runtimeconfig.json
+C:\Users\Kristijan\source\repos\invaders\invaders\bin\Debug\net8.0\invaders.dll
+C:\Users\Kristijan\source\repos\invaders\invaders\bin\Debug\net8.0\invaders.pdb
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.AssemblyInfoInputs.cache
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.AssemblyInfo.cs
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.dll
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\refint\invaders.dll
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.pdb
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\invaders.genruntimeconfig.cache
+C:\Users\Kristijan\source\repos\invaders\invaders\obj\Debug\net8.0\ref\invaders.dll

@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marti\\Desktop\\invaders\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|c:\\users\\marti\\desktop\\invaders\\invaders\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|solutionrelative:invaders\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|c:\\users\\marti\\desktop\\invaders\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|c:\\users\\marti\\desktop\\invaders\\clientwpf\\clientwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|solutionrelative:clientwpf\\clientwpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|c:\\users\\marti\\desktop\\invaders\\invaders\\server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|solutionrelative:invaders\\server.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|c:\\users\\marti\\desktop\\invaders\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|solutionrelative:shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|c:\\users\\marti\\desktop\\invaders\\clientwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|solutionrelative:clientwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|c:\\users\\marti\\desktop\\invaders\\clientwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|solutionrelative:clientwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|c:\\users\\marti\\desktop\\invaders\\shared\\networkprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|solutionrelative:shared\\networkprotocol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|c:\\users\\marti\\desktop\\invaders\\shared\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|solutionrelative:shared\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|c:\\users\\marti\\desktop\\invaders\\shared\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|solutionrelative:shared\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|c:\\users\\marti\\desktop\\invaders\\invaders\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|solutionrelative:invaders\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|c:\\users\\marti\\desktop\\invaders\\client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|solutionrelative:client\\gameclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|c:\\users\\marti\\desktop\\invaders\\clientwpf\\assets\\explosion_2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|solutionrelative:clientwpf\\assets\\explosion_2.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|c:\\users\\marti\\desktop\\invaders\\shared\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{607CF7AD-A0E5-4A16-B0F8-832A67DAD892}|Shared\\Shared.csproj|solutionrelative:shared\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|c:\\users\\marti\\desktop\\invaders\\client\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|solutionrelative:client\\gamerenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|c:\\users\\marti\\desktop\\invaders\\invaders\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|solutionrelative:invaders\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|c:\\users\\marti\\desktop\\invaders\\invaders\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|solutionrelative:invaders\\gameserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|c:\\users\\marti\\desktop\\invaders\\clientwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|solutionrelative:clientwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|c:\\users\\marti\\desktop\\invaders\\clientwpf\\clientwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FCE21A8E-0C2A-42DF-93CF-3E72825BCA84}|ClientWpf\\ClientWpf.csproj|solutionrelative:clientwpf\\clientwpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|c:\\users\\marti\\desktop\\invaders\\invaders\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB47A3D-34F1-4D0D-A92A-CA47313B815E}|invaders\\Server.csproj|solutionrelative:invaders\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|c:\\users\\marti\\desktop\\invaders\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24DD1812-2926-4E86-99B7-01700CBAF520}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAPwAAAAAAAAAAADwvwkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-02-08T08:34:59.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T08:34:33.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Server.csproj",
+              "RelativeDocumentMoniker": "invaders\\Server.csproj",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Server.csproj",
+              "RelativeToolTip": "invaders\\Server.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T08:34:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj",
+              "RelativeToolTip": "Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-08T08:34:06.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClientWpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClientWpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAMkBAAAAAAAAAAAAANUBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T19:02:16.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Constants.cs",
+              "RelativeDocumentMoniker": "Shared\\Constants.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Constants.cs",
+              "RelativeToolTip": "Shared\\Constants.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:46:17.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\GameEngine.cs",
+              "RelativeDocumentMoniker": "invaders\\GameEngine.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\GameEngine.cs",
+              "RelativeToolTip": "invaders\\GameEngine.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAJcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:45:44.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientWpf.csproj",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj",
+              "RelativeDocumentMoniker": "ClientWpf\\ClientWpf.csproj",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj",
+              "RelativeToolTip": "ClientWpf\\ClientWpf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-07T19:04:45.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:42:06.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Shared\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\PlayerData.cs",
+              "RelativeToolTip": "Shared\\PlayerData.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:39:09.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Server.csproj",
+              "RelativeDocumentMoniker": "invaders\\Server.csproj",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Server.csproj",
+              "RelativeToolTip": "invaders\\Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-07T18:49:09.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClientWpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\MainWindow.xaml",
+              "RelativeToolTip": "ClientWpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-07T19:02:16.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NetworkProtocol.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\NetworkProtocol.cs",
+              "RelativeDocumentMoniker": "Shared\\NetworkProtocol.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\NetworkProtocol.cs",
+              "RelativeToolTip": "Shared\\NetworkProtocol.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:31:54.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientWpf",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj",
+              "RelativeDocumentMoniker": "ClientWpf\\ClientWpf.csproj",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj",
+              "RelativeToolTip": "ClientWpf\\ClientWpf.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-07T19:03:20.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\GameRenderer.cs",
+              "RelativeDocumentMoniker": "Client\\GameRenderer.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\GameRenderer.cs",
+              "RelativeToolTip": "Client\\GameRenderer.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAAAIsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:39:49.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Player.cs",
+              "RelativeDocumentMoniker": "invaders\\Player.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Player.cs",
+              "RelativeToolTip": "invaders\\Player.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAwwBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:39:24.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameClient.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\GameClient.cs",
+              "RelativeDocumentMoniker": "Client\\GameClient.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\GameClient.cs",
+              "RelativeToolTip": "Client\\GameClient.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAiwN8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:31:19.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "explosion_2.png",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\Assets\\explosion_2.png",
+              "RelativeDocumentMoniker": "ClientWpf\\Assets\\explosion_2.png",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\Assets\\explosion_2.png",
+              "RelativeToolTip": "ClientWpf\\Assets\\explosion_2.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-02-08T08:09:11.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameServer.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\GameServer.cs",
+              "RelativeDocumentMoniker": "invaders\\GameServer.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\GameServer.cs",
+              "RelativeToolTip": "invaders\\GameServer.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAQwCwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:30:36.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\GameState.cs",
+              "RelativeDocumentMoniker": "Shared\\GameState.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\GameState.cs",
+              "RelativeToolTip": "Shared\\GameState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:32:21.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\App.xaml",
+              "RelativeDocumentMoniker": "ClientWpf\\App.xaml",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\App.xaml",
+              "RelativeToolTip": "ClientWpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-02-07T19:04:19.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Enemy.cs",
+              "RelativeDocumentMoniker": "invaders\\Enemy.cs",
+              "ToolTip": "C:\\Users\\Marti\\Desktop\\invaders\\invaders\\Enemy.cs",
+              "RelativeToolTip": "invaders\\Enemy.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:46:03.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
