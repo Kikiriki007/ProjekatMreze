@@ -7,7 +7,7 @@ Multiplayer Space Invaders igra razvijena u C# sa TCP/UDP mrežnom komunikacijom
 Klasična Space Invaders igra prilagođena za multiplayer. Projekat demonstrira implementaciju klijent-server arhitekture sa TCP i UDP protokolima za sinhronizaciju stanja igre između dva konkurentna igrača.
 
 ## Mrežna Arhitektura
-<img width="1000" height="800" alt="svgviewer-png-output" src="https://github.com/user-attachments/assets/be1011bb-d855-4d81-b64e-4d365e6799b6" />
+<img width="1000" height="900" alt="svgviewer-png-output(1)" src="https://github.com/user-attachments/assets/c2624ba6-eee7-4bae-b3c1-81b29e2599a7" />
 
 ### Protokoli
 
