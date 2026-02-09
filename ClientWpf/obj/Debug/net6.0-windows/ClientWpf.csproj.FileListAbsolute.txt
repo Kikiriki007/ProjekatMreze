@@ -27,3 +27,32 @@ C:\Users\Marti\Desktop\invaders\ClientWpf\obj\Debug\net6.0-windows\refint\Client
 C:\Users\Marti\Desktop\invaders\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.pdb
 C:\Users\Marti\Desktop\invaders\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.genruntimeconfig.cache
 C:\Users\Marti\Desktop\invaders\ClientWpf\obj\Debug\net6.0-windows\ref\ClientWpf.dll
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Client.deps.json
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Client.runtimeconfig.json
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Client.exe
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\ClientWpf.exe
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\ClientWpf.deps.json
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\ClientWpf.runtimeconfig.json
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\ClientWpf.dll
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\ClientWpf.pdb
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Client.dll
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Shared.dll
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Client.pdb
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\bin\Debug\net6.0-windows\Shared.pdb
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.csproj.AssemblyReference.cache
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf_MarkupCompile.cache
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.g.resources
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.AssemblyInfoInputs.cache
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.AssemblyInfo.cs
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.csproj.CoreCompileInputs.cache
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.sourcelink.json
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.csproj.Up2Date
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.dll
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\refint\ClientWpf.dll
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.pdb
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ClientWpf.genruntimeconfig.cache
+C:\Users\Kristijan\Desktop\FAX\MREZERE\Provera projekat\ProjekatMreze\ClientWpf\obj\Debug\net6.0-windows\ref\ClientWpf.dll

@@ -6,10 +6,12 @@ namespace invaders.Shared
     [Serializable]
     public class EnemyData
     {
-        public int Id { get; set; }          
+        public int Id { get; set; }
         public int X { get; set; }
         public int Y { get; set; }
         public EnemyType Type { get; set; }
+
+        public int Lives { get; set; } // adding lives
 
         public EnemyData() { }
 
@@ -19,6 +21,23 @@ namespace invaders.Shared
             X = x;
             Y = y;
             Type = type;
+
+            switch (type)
+            {
+                case EnemyType.BLOCK:
+                    Lives = Constants.LIVES_BLOCK;
+                    break;
+                case EnemyType.CIRCLE:
+                    Lives = Constants.LIVES_CIRCLE;
+                    break;
+                case EnemyType.SHOOTER:
+                    Lives = Constants.LIVES_SHOOTER;
+                    break;
+
+                default:
+                    Lives = Constants.LIVES_SHOOTER;
+                    break;
+            };
         }
 
         public string GetDisplayChar()

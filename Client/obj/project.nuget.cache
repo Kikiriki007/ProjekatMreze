@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lcpxoq5XsJM=",
+  "dgSpecHash": "R7Y+BB2/cWU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
-    "C:\\Users\\Marti\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\Client.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

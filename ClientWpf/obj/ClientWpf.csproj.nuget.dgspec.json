@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj": {}
+    "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\ClientWpf\\ClientWpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj": {
+    "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\ClientWpf\\ClientWpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj",
+        "projectUniqueName": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\ClientWpf\\ClientWpf.csproj",
         "projectName": "ClientWpf",
-        "projectPath": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\ClientWpf.csproj",
-        "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marti\\Desktop\\invaders\\ClientWpf\\obj\\",
+        "projectPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\ClientWpf\\ClientWpf.csproj",
+        "packagesPath": "C:\\Users\\Kristijan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\ClientWpf\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,18 +26,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj": {
-                "projectPath": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj"
+              "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\Client.csproj": {
+                "projectPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\Client.csproj"
               },
-              "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj"
+              "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj"
               }
             }
           }
@@ -47,7 +50,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -63,24 +67,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -89,21 +75,25 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj": {
+    "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marti\\Desktop\\invaders\\Client\\obj\\",
+        "projectPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Kristijan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Client\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -111,15 +101,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj"
+              "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj"
               }
             }
           }
@@ -133,7 +122,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -149,44 +139,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj": {
+    "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Marti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marti\\Desktop\\invaders\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\Kristijan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kristijan\\Desktop\\FAX\\MREZERE\\Provera projekat\\ProjekatMreze\\Shared\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kristijan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -194,7 +170,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -212,7 +187,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0": {
@@ -228,26 +204,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.33, 6.0.33]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
