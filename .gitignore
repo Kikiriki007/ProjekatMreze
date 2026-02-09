@@ -1,0 +1,42 @@
+## Ignore Visual Studio temporary files, build results
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+.vs/
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.manifest
+
+# Project-specific
+*.metadata.v9.bin
+*.projects.v9.bin
+*.strings.v9.bin
+.dtbcache.v2
+.futdcache.v2
+*.AssemblyReference.cache
+*.GeneratedMSBuildEditorConfig.editorconfig
+
+# NuGet
+packages/
+*.nupkg
+*.nuget.props
+*.nuget.targets
